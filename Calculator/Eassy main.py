@@ -1,4 +1,4 @@
-# Simple calculator using only operators and variables (no functions)
+# project Simple calculator using only operators and variables (no functions)
 
 # Variables to store numbers
 num1 = 10
